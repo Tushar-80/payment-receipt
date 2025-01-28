@@ -62,3 +62,9 @@ body{
     bottom: 30px;
     transform: rotate(-30deg);
 }
+.receipt-footer{
+    text-align: center;
+    padding: 20px 0;
+    font-size: 20px;
+    background-color: #ffca39;
+}

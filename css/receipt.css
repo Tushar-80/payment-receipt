@@ -46,3 +46,8 @@ body{
     color: gray;
     width: 30%;
 }
+.receipt-detail-value{
+    font-weight: bold;
+    border-bottom: 1px dashed gray;
+    width: 30%;
+}

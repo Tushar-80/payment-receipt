@@ -27,3 +27,7 @@ body{
 .receipt-mobile{
     text-align: right;
 }
+.receipt-body{
+    position: relative;
+    border-bottom: 1px dashed gray;
+}

@@ -13,3 +13,8 @@ body{
 .receipt-header{
     border-bottom:1px dashed gray;
 }
+.brand-logo{
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+}

@@ -42,3 +42,7 @@ body{
     font-size: 20px;
     margin: 20px 0;
 }
+.receipt-detail-key{
+    color: gray;
+    width: 30%;
+}

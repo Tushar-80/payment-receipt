@@ -31,3 +31,8 @@ body{
     position: relative;
     border-bottom: 1px dashed gray;
 }
+.receipt-title{
+    text-align: center;
+    font-size: 30px;
+    margin: 40px 0;
+}
